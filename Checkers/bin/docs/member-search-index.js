@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"core","c":"CheckersLogic","l":"CheckersLogic()","u":"%3Cinit%3E()"},{"p":"core","c":"CheckersLogic","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
